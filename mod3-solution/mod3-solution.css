@@ -1,0 +1,32 @@
+body{
+	background-color: grey;
+	border: 0;
+	margin: 0;
+	box-sizing: border-box;
+	font-family: monospace;
+	
+}
+#main content{
+	width: 100%;
+}
+ #box1,#box2,#box3{
+	background-color:white;
+	box-sizing: border-box;
+	margin: 10px;
+	width: 300px;
+	border: 3px solid black;
+	justify-content: center;
+
+
+}
+h2{
+	text-align: center;
+}
+header p{
+	font-size: 50px;
+}
+.nav-item{
+	text-align: center;
+	width: 100%;
+
+}
